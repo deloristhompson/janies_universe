@@ -1,0 +1,2 @@
+class Storie < ApplicationRecord
+end
